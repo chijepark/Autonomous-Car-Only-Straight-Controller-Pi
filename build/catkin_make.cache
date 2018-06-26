@@ -1,0 +1,2 @@
+control_esc_v3
+-DCATKIN_DEVEL_PREFIX=/home/pi/HW/control_esc_v3/devel -DCMAKE_INSTALL_PREFIX=/home/pi/HW/control_esc_v3/install -G Unix Makefiles
